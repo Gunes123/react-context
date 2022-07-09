@@ -4,7 +4,11 @@ import Provider from './context/Provider/Provider';
 function App() {
   return (
     <div className="App">
-      {<Provider><DataGrid /></Provider>}
+      {
+        <Provider>
+          <DataGrid />
+        </Provider>
+      }
     </div>
   );
 }
