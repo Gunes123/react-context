@@ -1,6 +1,12 @@
 body {
     background: rgba(39, 34, 34, 0.986);
   }
+
+  .container {
+    width: 100%;
+    display: flex;
+    flex-flow: row nowrap;
+  }
   
   h1{
     color: cyan;
@@ -10,11 +16,6 @@ body {
     margin-top: 350px;
     text-align: center;
     font-size: large;
-  }
-  .container {
-    width: 100%;
-    display: flex;
-    flex-flow: row nowrap;
   }
   
 .white {

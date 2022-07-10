@@ -1,0 +1,43 @@
+{
+    "soundEffects": [{
+        "id": 0,
+        "path": "/mixg2.wav",
+        "keyType": "key white black"
+    }, {
+        "id": 1,
+        "path": "/mixg3.wav",
+        "keyType": "key white black"
+    }, {
+        "id": 2,
+        "path": "/mixg4.wav",
+        "keyType": "key white black"
+    }, {
+        "id": 3,
+        "path": "/mixg5.wav",
+        "keyType": "key white black"
+    }, {
+        "id": 4,
+        "path": "/mixg6.wav",
+        "keyType": "key white black"
+    }, {
+        "id": 5,
+        "path": "/mixg7.wav",
+        "keyType": "key white black"
+    }, {
+        "id": 6,
+        "path": "/mixg8.wav",
+        "keyType": "key white black"
+    }, {
+        "id": 7,
+        "path": "/mixg8.wav",
+        "keyType": "key white black"
+    }, {
+        "id": 8,
+        "path": "/mixg9.wav",
+        "keyType": "key white black"
+    }, {
+        "id": 9,
+        "path": "/mixg9.wav",
+        "keyType": "key white"
+    }]
+}

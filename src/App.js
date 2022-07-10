@@ -1,12 +1,13 @@
-import './App.css';
-import DataGrid from './components/DataGrid/DataGrid';
-import Provider from './context/Provider/Provider';
+import './app.css';
+import Keyboard from './components/piano/keyboard';
+import Provider from './context/provider';
+
 function App() {
   return (
     <div className="App">
       {
         <Provider>
-          <DataGrid />
+          <Keyboard />
         </Provider>
       }
     </div>
