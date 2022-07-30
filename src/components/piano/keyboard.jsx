@@ -13,7 +13,7 @@ const Keyboard = () => {
   return (
     <div className="container">
       { 
-      typeof state.effects != 'undefined' && state.effects.soundEffects.map(effect => { 
+      typeof state.effects !== 'undefined' && state.effects.soundEffects.map(effect => { 
         return <div key={effect.id} id={effect.id} onClick={() => dispatch({type:'REPLAY', id: effect.id})} 
         className={effect.keyType}></div>})
       }
